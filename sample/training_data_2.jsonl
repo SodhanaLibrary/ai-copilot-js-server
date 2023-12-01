@@ -1,0 +1,20 @@
+{"prompt":"Navigate to the Infrastructure page.","completion":"You have reached the Infrastructure page where you can access reports related to DHCP, DNS, and Radius servers."}
+{"prompt":"Click on the Status Tile in Devices.","completion":"You've selected the Status Tile in Devices, providing information about device connections, including online, offline, and error statuses."}
+{"prompt":"View billing information for the last quarter in Account Management.","completion":"To see billing information for the last quarter, go to the Account Management section."}
+{"prompt":"Create a new service area under Settings.","completion":"You can create a new service area, such as a site, building, or floor, under the Settings section."}
+{"prompt":"Generate a report on Internet usage over the past week.","completion":"To generate a report on Internet usage over the past week, visit the Infrastructure section."}
+{"prompt":"Access reports about specific applications in the Dashboard Apps Tile.","completion":"You can access reports about specific applications in the Dashboard's Apps Tile."}
+{"prompt":"Update the admin information in the Settings section.","completion":"To update admin information, navigate to the Settings section."}
+{"prompt":"Check the audit details for recent changes in Alerts.","completion":"To check the audit details for recent changes, go to the Alerts section."}
+{"prompt":"View reports on wired devices in Devices Connection Type.","completion":"You can view reports on wired devices by selecting the Connection Type in the Devices section."}
+{"prompt":"Create a new workorder job in Account Management.","completion":"To create a new workorder job, visit the Account Management section."}
+{"prompt":"Check the capacity reports in Dashboard's SLA Tile.","completion":"To check capacity reports, navigate to the SLA Tile in the Dashboard section."}
+{"prompt":"Create a new segment under Settings.","completion":"You can create a new segment under the Settings section."}
+{"prompt":"View wireless SSID settings in Settings.","completion":"To view wireless SSID settings, visit the Settings section."}
+{"prompt":"Update tenant profile information in Account Management.","completion":"To update tenant profile information, go to the Account Management section."}
+{"prompt":"See unique devices per hour in the Summary Dashboard.","completion":"To see the count of unique devices per hour, visit the Summary Dashboard section."}
+{"prompt":"Access Internet reports for the selected location and time range in Dashboard's Infrastructure Tile.","completion":"You can access Internet reports for the selected location and time range in the Infrastructure Tile of the Dashboard."}
+{"prompt":"Create a new DHCP server in Settings.","completion":"To create a new DHCP server, navigate to the DHCP section under Settings."}
+{"prompt":"Check the list of rogue and misassociated devices in WIDs Tile under Devices.","completion":"To check the list of rogue and misassociated devices, select the WIDs Tile in the Devices section."}
+{"prompt":"See billing information for the current month in Account Management.","completion":"To view billing information for the current month, go to the Account Management section."}
+{"prompt":"Update the profile of a specific tenant in Account Management.","completion":"To update the profile of a specific tenant, visit the Account Management section."}

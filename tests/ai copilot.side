@@ -1,0 +1,63 @@
+{
+  "id": "481f9164-b133-46ca-b767-5b99aca734ad",
+  "version": "2.0",
+  "name": "ai copilot",
+  "url": "http://localhost:3000/",
+  "tests": [{
+    "id": "80d2f03d-ff8f-47a6-bd51-f8198f258cf7",
+    "name": "sample",
+    "commands": [{
+      "id": "b1779fd5-f92d-42e4-a7f9-d5abe9b7d078",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:3000/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "39122cd6-0fef-41b9-93ca-ec336660f5be",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x726",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "22820c1d-5e60-43a9-9f39-c503d7c4c7f8",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//div[@id='root']/div/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'Hello React')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9b49832-2d8a-49ff-84f1-9f4b7da87033",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "css=path:nth-child(3)",
+      "targets": [
+        ["css=path:nth-child(3)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "ae8f08a7-852b-4d01-8566-4747ef09eed8",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "656932cd-974e-4d64-8912-0119ac749af4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["80d2f03d-ff8f-47a6-bd51-f8198f258cf7"]
+  }],
+  "urls": [],
+  "plugins": []
+}

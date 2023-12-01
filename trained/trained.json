@@ -1,0 +1,1 @@
+[{"path":"dashboard/app","name":"dashboard/app","description":"","elements":{"//*[@id='root']/div/h1":{"xpath":"//*[@id='root']/div/h1","description":"root element","cssSelector":"body > div#root > div > h1","skipped":false,"trained":false}},"uuid":"e0bdf33f-c8ef-4c1f-b82d-f216be96a566"}]
